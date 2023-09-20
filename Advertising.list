@@ -1,5 +1,5 @@
 # NAME: Advertising
-# 企鹅接水广
+# 企鹅接水广告
 host, guide-acs.m.taobao.com, reject
 host, loggw.alipay.com.cn, reject
 host, qiekj-web-log.cn-shanghai.log.aliyuncs.com, reject
