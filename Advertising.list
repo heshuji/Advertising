@@ -8,4 +8,4 @@ host, alpha.alicdn.com, reject
 host, lf3-sf-be-pack-sign.pglstatp-toutiao.com, reject
 host, mdap.alipay.com, reject
 host, umini.shujupie.com, reject
-host, lf9-sf-be-pack-sign.pglstatp-toutiao.com/ad.union.api, reject
+host, lf9-sf-be-pack-sign.pglstatp-toutiao.com, reject
