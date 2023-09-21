@@ -3,7 +3,7 @@
 host, guide-acs.m.taobao.com, reject
 host, loggw.alipay.com.cn, reject
 host, qiekj-web-log.cn-shanghai.log.aliyuncs.com, reject
-host, alpha.alicdn.com, reject
+# host, alpha.alicdn.com, reject
 host, lf3-sf-be-pack-sign.pglstatp-toutiao.com, reject
 host, mdap.alipay.com, reject
 host, umini.shujupie.com, reject
